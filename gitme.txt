@@ -1,1 +1,5 @@
 hello, this is my first GIT exercise
+its time to make more changes
+
+now its time for nigerians to take over.
+what is wrong with this code
