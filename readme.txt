@@ -1,2 +1,1 @@
-hgdvytygdhgvf\jvyf
-buygfuybfh
+this is my first GIT exercise
